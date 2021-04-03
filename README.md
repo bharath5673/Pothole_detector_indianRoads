@@ -77,3 +77,5 @@ but i noticed only a slight and minute changes in precision and recall.. rest no
 images used  for train : 417 for train and 64 for validset..on colab with gpu
 
 demo vid:
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA
