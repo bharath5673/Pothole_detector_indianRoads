@@ -68,6 +68,6 @@ images used  for train : 417 for train and 64 for validset..on colab with gpu
 ### u can downlaod the video for inference from [here](https://drive.google.com/file/d/17v0iaoOq-lt_e6gVQdSTqd9NdpodHzJh/view?usp=sharing)
 
 
-**demo outpot:**
+**output:**
 
 [![Watch the video](output2.png)](https://youtu.be/6P9bpwoqhMg)
