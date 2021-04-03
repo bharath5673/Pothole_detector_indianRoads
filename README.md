@@ -28,12 +28,12 @@ As **Redmond** was not currently working on the CV for a long time, a new team o
 
 Some of the new features of YOLOv4 is:
 
-    Anyone with a 1080 Ti or 2080 ti GPU can run the YOLOv4 model easily. 
-    YOLOv4 includes CBN(Cross-iteration batch normalization) and PAN(Pan aggregation network) methods.
-    Weighted-Residual-Connections(WRC).
-    Cross-Stage-Partial connections(CSP), a new backbone to enhance CNN(convolution neural network)
-    Self-adversarial-training(SAT): A new data augmentation technique
-    DropBlock regularization
+ * Anyone with a 1080 Ti or 2080 ti GPU can run the YOLOv4 model easily. 
+ * YOLOv4 includes CBN(Cross-iteration batch normalization) and PAN(Pan aggregation network) methods.
+ * Weighted-Residual-Connections(WRC).
+ * [Cross-Stage-Partial connections(CSP)](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w28/Wang_CSPNet_A_New_Backbone_That_Can_Enhance_Learning_Capability_of_CVPRW_2020_paper.pdf), a new backbone to enhance CNN(convolution neural network)
+ * Self-adversarial-training(SAT): A new data augmentation technique
+ *  DropBlock regularization
 
 **YOLOv5**
 
