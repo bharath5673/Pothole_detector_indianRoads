@@ -65,6 +65,9 @@ i used a smaller one YOLOv5s // 14mb size
 
 images used  for train : 417 for train and 64 for validset..on colab with gpu
 
-**demo vid:**
+### u can downlaod the video for inference from [here](https://drive.google.com/file/d/17v0iaoOq-lt_e6gVQdSTqd9NdpodHzJh/view?usp=sharing)
+
+
+**demo outpot:**
 
 [![Watch the video](output2.png)](https://youtu.be/6P9bpwoqhMg)
