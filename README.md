@@ -2,7 +2,7 @@
 
 An approach of machine learning techique to detect potholes using a very famous
 RPN based detection api YOLOV5.\
- ![Alt text](pics/output.jpg)
+ ![Alt text](output.jpg)
 
 
 
@@ -58,7 +58,7 @@ i tried to do them with som codes , but i failed..
 i used roboflow, roboflow made super easy for annotation conversion like coco to voc, voc to coco, coco to yolo,, and its simple.
 
 YOLOV5 Pretrained Checkpoints has 4 different variant
- ![Alt text](pics/nets.png)
+ ![Alt text](nets.png)
 
 i used a smaller one YOLOv5s // 14mb size
 
