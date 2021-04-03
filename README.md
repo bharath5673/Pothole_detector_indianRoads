@@ -1,6 +1,6 @@
 # Pothole_detector_indianRoads
 
-### An approach of machine learning techique to detect potholes using a very famous / RPN based detection api YOLOV5.\
+### An approach of machine learning techique to detect potholes using a very famous RPN based detection api YOLOV5.
 
  ![Alt text](output.jpg)
 
@@ -13,10 +13,12 @@
 graduate student at the University of Washington’s programming languages and software engineering lab, he proposed the YOLO model in a CVPR 2016 paper that won the OpenCV People’s Choice Award.
 Joseph Redmon, creator of the popular object detection algorithm YOLO
 
+```
 he introduces YOLO v1,
 YOLO v2(YOLO9000),
 YOLOv3,
 YOLOv3-tiny.
+```
 
 Despite enjoying his work, days later Redmon tweeted, he had stopped his CV research because he found that the related ethical issues “became impossible to ignore.”
 
