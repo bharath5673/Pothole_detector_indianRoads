@@ -1,4 +1,4 @@
-# Pothole_detector_indianRoads
+# Pothole detector on indianRoads
 
 ### An approach of machine learning techique to detect potholes using a very famous RPN based detection api YOLOV5.
 
