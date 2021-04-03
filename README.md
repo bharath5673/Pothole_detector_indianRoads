@@ -20,11 +20,11 @@ YOLOv3,
 YOLOv3-tiny.
 ```
 
-Despite enjoying his work, days later Redmon tweeted, he had stopped his CV research because he found that the related ethical issues “became impossible to ignore.”
+Despite enjoying his work, days later **Redmon tweeted**, he had stopped his CV research because he found that the related ethical issues “became impossible to ignore.”
 
 **YOLOv4**
 
-As Redmond was not currently working on the CV for a long time, a new team of three developers released YOLOv4. It was released by Alexey Bochoknovskiy, Chien-Yao Wang, and Hong-Yuan Mark Liao. Alexey is the one who developed the Windows version of YOLO back in the days.
+As **Redmond** was not currently working on the CV for a long time, a new team of three developers released YOLOv4. It was released by **Alexey Bochoknovskiy, Chien-Yao Wang, and Hong-Yuan Mark Liao**. **Alexey** is the one who developed the Windows version of YOLO back in the days.
 
 Some of the new features of YOLOv4 is:
 
@@ -37,7 +37,7 @@ Some of the new features of YOLOv4 is:
 
 **YOLOv5**
 
-After a few days of the release of the YOLOv4 model on 27 May 2020, YOLOv5 got released by Glenn Jocher(Founder & CEO of Utralytics). It was publicly released on Github here. Glenn introduced the YOLOv5 Pytorch based approach, and Yes! YOLOv5 is written in the Pytorch framework.
+After a few days of the release of the YOLOv4 model on 27 May 2020, YOLOv5 got released by **Glenn Jocher(Founder & CEO of Utralytics)**. It was publicly released on Github here. **Glenn** introduced the YOLOv5 Pytorch based approach, and Yes! YOLOv5 is written in the Pytorch framework.
 
 
 **dataprep:**
