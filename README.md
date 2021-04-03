@@ -78,4 +78,4 @@ images used  for train : 417 for train and 64 for validset..on colab with gpu
 
 demo vid:
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/6P9bpwoqhMg)
+[![Watch the video](https://youtu.be/6P9bpwoqhMg)
