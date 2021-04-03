@@ -42,7 +42,7 @@ After a few days of the release of the YOLOv4 model on 27 May 2020, YOLOv5 got r
 
 **dataprep:**
 
-can be manually prepared over lebelme(https://github.com/wkentaro/labelme)  annotation tool
+can be manually prepared over [lebelme](https://github.com/wkentaro/labelme)  annotation tool
 
 
 YOLO: In YOLO labeling format, a .txt file with the same name is created for each image file in the same directory. Each .txt file contains the annotations for the corresponding image file, that is object class, object coordinates, height and width.
